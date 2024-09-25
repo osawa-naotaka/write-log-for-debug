@@ -9,6 +9,7 @@
   License: MIT
  */
 
+ // https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/
 function write_log( $data )
 {
     if ( true === WP_DEBUG ) {
